@@ -15,7 +15,7 @@
 ## SIMPLE METHOD
     
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rafhanseruyir/RAFHAN-SERV2/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sk-ser/RAFHAN-SERV3/)
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@rafhanseruyir/RAFHAN-SERV2-Qr-code?v=1)
 
@@ -50,6 +50,4 @@
 * [`RAFHAN SER`](https://github.com/KANNANSIR) 
 
 
-*[`DEPLOY TO HEROKU`](https://heroku.com/deploy?template=https://github.com/rafhanseruyir/RAFHAN-SERV2/)
-  
-  
+*[`DEP DEPLOY LOY TO HEROKU`](https://heroku.com/deploy?template=https://github.com/rafhanseruyir/RAFHAN-SERV2/)
